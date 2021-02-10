@@ -1,7 +1,3 @@
-*.php
-wp-*/
+/*
 !wp-content/
-.htaccess
-readme.html
-license.txt
-.mysql
+!.gitignore
